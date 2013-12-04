@@ -16,5 +16,6 @@ Simple and little game. Written in Python 3 using [pygame](http://www.pygame.org
     - *arrows* - to move
     - *space* - to shoot
 *   **In level editor:**
-    - *left mouse* - to create object
-    - *space* - to change object
+    - *mouse* - to move cursor
+    - *left mouse* - to create selected object
+    - *space* - to next object
