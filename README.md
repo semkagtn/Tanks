@@ -9,12 +9,12 @@ Simple and little game. Written in Python 3 using [pygame](http://www.pygame.org
 
 ### How to play
 *    **python tanks.py level1** - to run level1
-*    **python tanks.py levelname** -e # to create or edite level
+*    **python tanks.py levelname -e** - to create or edite level
 
 ### Controls
 *   **In game:**
-    - _arrows_ to move
-    - _space_ to shoot
+    - *arrows* - to move
+    - *space* - to shoot
 *   **In level editor:**
-    - _left mouse_ to create object
-    - _space_ to change object
+    - *left mouse* - to create object
+    - *space* - to change object
