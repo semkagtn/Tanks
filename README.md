@@ -1,6 +1,7 @@
 Tanks
 =====
 
+<<<<<<< HEAD
 Simple and little game. Written in Python 3 using [pygame](http://www.pygame.org/)
 
 ### Installation
@@ -19,3 +20,6 @@ Simple and little game. Written in Python 3 using [pygame](http://www.pygame.org
 *   In level editor:
     - *left mouse* to create object
     - *space* to change object
+=======
+Little game
+>>>>>>> df2bad1852ee43baed51fad1afd4ce75644e17ba
